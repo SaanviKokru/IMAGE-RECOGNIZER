@@ -1,0 +1,20 @@
+body{
+    background-color:cyan ;
+}
+.heading  {
+font-size: 30px;
+width:80%;
+background-color:deeppink ;
+}
+p{
+    color: indigo;
+}
+h2{
+    color: orange;
+    font-size: 20px;
+}
+#camera{
+ border-style: dotted;
+ width: 350px;
+ height: 300px; 
+}
